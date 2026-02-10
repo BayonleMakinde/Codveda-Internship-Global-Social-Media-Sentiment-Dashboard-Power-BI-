@@ -18,7 +18,7 @@ Raw social media data is notoriously unstructured. I performed the following **E
 * **Platform Slicer**: Allows users to filter the entire report by specific social networks.
 * **Time-Series Slider**: Enables a deep dive into specific historical periods.
 * **Cross-Filtering**: Clicking on a specific country on the map automatically updates the Sentiment and Engagement charts for that region.
-* 
+
 ----
 
 <img width="1022" height="527" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/cb1e9305-24a4-43ab-89fb-967395d08f10" />
